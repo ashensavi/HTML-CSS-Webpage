@@ -26,3 +26,21 @@ html, body{
     color: #b2b1b1;
     cursor: pointer;
 }
+
+.logo img{
+    width: 30px;
+    margin-top: -7px;
+    margin-right: 48px;
+}
+
+.active{
+    color: #19dafa !important;
+}
+
+.signup-btn{
+    top: 40px;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+}
